@@ -33,3 +33,7 @@ And do star and fork my projects also... I am currently in grade 8 at **Asoka Co
 - A typing improving app that can run online and offline
 - [repo](https://github.com/RedEdge967/Keyboard-Hero) - [website](https://RedEdge967.github.io/Keyboard-Hero)
 
+## Connect with me
+want to ask any questions reguarding my projects or just wanna say Hi, drop a message to [janithc967@gmail.com](mailto:janithc967@gmail.com).
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedEdge967) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RedEdge967) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandula-janith-is-here)
