@@ -25,7 +25,7 @@
 <div class="flex flex-col flex-grow">
   <!-- replace with a bio about you, or something -->
   <div class="flex items-center justify-center text-xl h-40">
-    <ButtonLink size="large" href="https://github.com/mattjennings/sveltekit-blog-template">
+    <ButtonLink size="large" href="https://github.com/RedEdge967/RedBlog">
       <slot slot="icon-start">
         <svg
           class="fill-black dark:fill-white h-6 w-6"
