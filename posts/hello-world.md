@@ -3,8 +3,6 @@ title: Hello World
 date: 2022-02-06
 ---
 
-
-# Hello Everyone!!!
 Welcome all viewers to my this amazing blog. You can view the source code of this blog in my [github account.](https://github.com/RedEdge967/RedBlog)
 Be sure to star and fork this blog's repo... And also checkout my other projects also...
 
@@ -13,8 +11,7 @@ I will start my first post from a little introduction about me. I am **Chandula 
 I am a junior `frontend/backend/fullstack` developer. You can view my [github account](https://github.com/RedEdge967) to see my other projects too...
 And do star and fork my projects also... I am currently in grade 8 at **Asoka College, Colombo 10**.
 
-![](https://img.shields.io/github/followers/RedEdge967?style=social)
-![](https://img.shields.io/github/stars/RedEdge967?style=social)
+![](https://img.shields.io/github/followers/RedEdge967?style=social) ![](https://img.shields.io/github/stars/RedEdge967?style=social)
 
 ### My best projects
 #### [*Spider-Man*](https://github.com/RedEdge967/Spider-Man)
