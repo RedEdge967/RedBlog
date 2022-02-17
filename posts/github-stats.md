@@ -15,41 +15,41 @@ Hey there fellow readers, Today I am going to show you some github stats cards t
 
 Badge | URL
 ------------ | -------------
-![](https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal) | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal`
+![](https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal) | ```https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal```
 
 ## 💳 Github Profile Summary Card
 
 Badge | URL
 ------------ | ------------
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue) | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue`
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue) | ```https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue```
 
 
 ## 📟 GitHub Stats
 
 Badge | URL
 ------------ | -------------
-![](https://github-readme-stats.vercel.app/api?username=alexandresanlim) | `https://github-readme-stats.vercel.app/api?username={username}`
+![](https://github-readme-stats.vercel.app/api?username=alexandresanlim) | ```https://github-readme-stats.vercel.app/api?username={username}```
 
 
 ## 📊 Most Used Language
 
 Badge | URL
 ------------ | -------------
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim) | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim) | ```https://github-readme-stats.vercel.app/api/top-langs/?username={username}```
 
 
 ## ⏱ Streak Stats
 
 Badge | URL
 ------------ | -------------
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim) | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
+![](https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim) | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
 
 
 ## 🏆 Trophy Stats
 
 Badge | URL
 ------------ | -------------
-![](https://github-profile-trophy.vercel.app/?username=alexandresanlim) | `https://github-profile-trophy.vercel.app/?username={username}`
+![](https://github-profile-trophy.vercel.app/?username=alexandresanlim) | ```https://github-profile-trophy.vercel.app/?username={username}```
 
 
 
