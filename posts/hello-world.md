@@ -8,8 +8,8 @@ Be sure to star and fork this blog's repo... And also checkout my other projects
 
 ## Who am I?
 I will start my first post from a little introduction about me. I am **Chandula Janith** and I am 13 years old. I am from **Sri Lanka.**
-I am a junior `frontend/backend/fullstack` developer. You can view my [github](https://github.com/RedEdge967) account to see my other projects too...
-And do star and fork my projects also... I am currently in grade 8 at **Asoka College, Colombo 10**.
+I am a junior `fullstack` developer. You can view my [github](https://github.com/RedEdge967) account to see my other projects too...
+And do star and fork my projects also... I am currently in grade 8 at **Asoka College, Colombo 10**. I work with HTML5, CSS3, JavaScript, Svelte, TypeScript, Java, C/C++/C#, and SCSS also. I like web developing, software developing and deep learning.
 
 
 ## My best projects
