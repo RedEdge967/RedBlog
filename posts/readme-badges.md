@@ -12,7 +12,7 @@ Hello there fellow readers, today I am showing you some badges that you can use 
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
-## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
+## 📊 Analytics
 
 Badge | URL
 ------------ | -------------
@@ -23,7 +23,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white`
 
 
-## 🤖 Artificial Intelligence [🔝](#welcome-badges-4-readmemd-profile)
+## 🤖 Artificial Intelligence
 
 Badge | URL
 ------------ | -------------
@@ -31,13 +31,13 @@ Badge | URL
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white`
 <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" /> | `https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white`
 
-## 🔗 Blockchain [🔝](#welcome-badges-4-readmemd-profile)
+## 🔗 Blockchain
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white`
 
-## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
+## 📝 Blog
 
 Badge | URL
 ------------ | -------------
@@ -52,7 +52,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`
 
 
-## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Contact
 
 Badge | URL
 ------------ | -------------
@@ -74,7 +74,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /> | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`
 
 
-## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
+## ☁ Cloud
 
 Badge | URL
 ------------ | -------------
@@ -106,7 +106,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> | `https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white`
 
 
-## 💲 Cryptocurrency [🔝](#welcome-badges-4-readmemd-profile)
+## 💲 Cryptocurrency
 
 Badge | URL
 ------------ | -------------
@@ -130,7 +130,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000" /> | `https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000`
 
 
-## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
+## ⚡ Database
 
 Badge | URL
 ------------ | -------------
@@ -155,7 +155,7 @@ Badge | URL
 
 
 
-## 🖍 Design [🔝](#welcome-badges-4-readmemd-profile)
+## 🖍 Design
 
 Badge | URL
 ------------ | -------------
@@ -185,7 +185,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /> | `https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black`
 
 
-## 📚 Education [🔝](#welcome-badges-4-readmemd-profile)
+## 📚 Education
 
 Badge | URL
 ------------ | -------------
@@ -208,7 +208,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" /> | `https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white`
 
 
-## 🌐 ETL [🔝](#welcome-badges-4-readmemd-profile)
+## 🌐 ETL
 
 Badge | URL
 ------------ | -------------
@@ -217,7 +217,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Spark AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white" /> | `https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white`
 
 
-## 🍔 Food [🔝](#welcome-badges-4-readmemd-profile)
+## 🍔 Food
 
 Badge | URL
 ------------ | -------------
@@ -236,7 +236,7 @@ Badge | URL
 
 
 
-## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 Frameworks
 
 Badge | URL
 ------------ | -------------
@@ -374,7 +374,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`
 
 
-## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
+## ❤ Funding
 
 Badge | URL
 ------------ | -------------
@@ -399,7 +399,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/> | `https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white`
 
 
-## 🎮 Games [🔝](#welcome-badges-4-readmemd-profile)
+## 🎮 Games
 
 Badge | URL
 ------------ | -------------
@@ -418,7 +418,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`
 
 
-## 🤜 Group [🔝](#welcome-badges-4-readmemd-profile)
+## 🤜 Group
 
 Badge | URL
 ------------ | -------------
@@ -431,7 +431,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
 
 
-## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 IDE
+
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />| `https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400`
@@ -463,13 +464,13 @@ Badge | URL
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" /> | `https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white`
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> | `https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white`
 
-## 🔌 IDE Plugin [🔝](#welcome-badges-4-readmemd-profile)
+## 🔌 IDE Plugin
 
 Badge | URL
 ------------- | ----------
 <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" /> | `https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000`
 
-## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Languages
 
 Badge | URL
 ------------ | -------------
@@ -521,7 +522,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | `https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white`
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" /> | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white`
 
-## 🧐 Linters [🔝](#welcome-badges-4-readmemd-profile)
+## 🧐 Linters
 
 Badge | URL
 ------------ | -------------
@@ -531,7 +532,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" /> | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white`
 
 
-## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Mobile Frameworks
 
 Badge | URL
 ------------ | -------------
@@ -545,7 +546,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" /> | `https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white`
 
 
-## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
+## 👨‍💻 Office
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /> | `https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white`
@@ -569,7 +570,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> | `https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white`
 
 
-## ⚙️ ORM [🔝](#welcome-badges-4-readmemd-profile)
+## ⚙️ ORM
 
 Badge | URL
 ------------ | -------------
@@ -578,7 +579,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />          | `https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white`
 
 
-## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 OS
 
 Badge | URL
 ------------ | -------------
@@ -614,7 +615,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" /> | `https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white`
 
 
-## 💡 Prototyping Platforms [🔝](#welcome-badges-4-readmemd-profile)
+## 💡 Prototyping Platforms
 
 Badge | URL
 ------------ | -------------
@@ -625,14 +626,14 @@ Badge | URL
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> | `https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white`
 
 
-## 🔒 Security Platforms [🔝](#welcome-badges-4-readmemd-profile)
+## 🔒 Security Platforms
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/> | `https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white`
 
 
-## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
+## 👨 Social
 
 Badge | URL
 ------------ | -------------
@@ -677,7 +678,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white`
 
 
-## 👩‍💻 Software Metrics and Analytics [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Software Metrics and Analytics
 
 Badge | URL
 ------------ | -------------
@@ -692,7 +693,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> | `https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white`
 
 
-## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
+## 🎶 Sound
 
 Badge | URL
 ------------ | -------------
@@ -712,7 +713,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /> | `https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white`
 
 
-## 💻 Spatial software [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 Spatial software
 
 Badge | URL
 ------------ | -------------
@@ -720,7 +721,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/qgis-3.22_Bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
 
 
-## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
+## 🛒 Store
 
 Badge | URL
 ------------ | -------------
@@ -730,7 +731,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white`
 
 
-## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
+## 🎞 Streaming
 
 Badge | URL
 ------------ | -------------
@@ -744,7 +745,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" /> | `https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white`
 
 
-## 💻 Terminal [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 Terminal
 
 Badge | URL
 ------------ | -------------
@@ -760,7 +761,7 @@ Badge | URL
 
 
 
-## 🌐 Web Browsers [🔝](#welcome-badges-4-readmemd-profile)
+## 🌐 Web Browsers
 
 Badge | URL
 ------------ | -------------
@@ -774,7 +775,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" /> | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`
 
 
-## ⏱️ Workflow Platforms [🔝](#welcome-badges-4-readmemd-profile)
+## ⏱️ Workflow Platforms
 
 Badge | URL
 ------------ | -------------
@@ -784,7 +785,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" /> | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`
 
 
-## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 Workspace Spec
 
 Badge | URL
 ------------ | -------------
@@ -816,41 +817,41 @@ Badge | URL
 
 <h2 align='center'>🔁 Dynamic </h2>
 
-## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
+## 📈 Activity Graph
 
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal`
 
-## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
+## 💳 Github Profile Summary Card
 
 Badge | URL
 ------------ | ------------
 <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue`
 
 
-## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
+## 📟 GitHub Stats
 
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
 
 
-## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
+## 📊 Most Used Language
 
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
 
 
-## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
+## ⏱ Streak Stats
 
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}`
 
 
-## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
+## 🏆 Trophy Stats
 
 Badge | URL
 ------------ | -------------
@@ -860,7 +861,7 @@ Badge | URL
 
 
 
-## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
+## ✏ How To Contribute
 
 1 - You don't need to make a fork just edit
 
@@ -882,7 +883,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 
 
-## Creators [🔝](#welcome-badges-4-readmemd-profile)
+## Creators
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last January 2022, excluding [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat).  We do respect & love our all contributors.
 
