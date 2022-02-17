@@ -3,7 +3,7 @@ title: Github Stats badges for Github Readme
 date: 2022-02-17
 ---
 
-Hey there fellow readers, Today I am going to show you some github stats cards to improve your github profile readme. you can use these stat cards in your profile readme in github. but be noticed that these stats cards aren't made by me. they are made by some developers in github.
+Hey there fellow readers, Today I am going to show you some github stats cards to improve your github profile readme. you can use these stat cards in your profile readme in github. but be noticed that these stats cards aren't made by me. they are made by some developers in github. see a stat cards used readme [here](https://github.com/RedEdge967).
 
 ## How to use?
 - Copy the stat card's code below
